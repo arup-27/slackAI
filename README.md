@@ -4,7 +4,7 @@ A simple static web page inspired by Slack's homepage, built with HTML and CSS.
 
 ## Preview
 
-![SlackAI Clone Preview](screenshot(397).png)
+![SlackAI Clone Preview](Screenshot(397).png)
 
 ## Features
 
